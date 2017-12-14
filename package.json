@@ -1,0 +1,27 @@
+{
+  "name": "random-generators",
+  "version": "0.0.1",
+  "description": "A collection of random number generation algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/McOmghall/random-generators.git"
+  },
+  "author": "Pedro Montoto Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McOmghall/random-generators/issues"
+  },
+  "dependencies": {
+  },
+  "standard": {
+    "ignore": [
+      "test/**",
+      "vendor/**"
+    ]
+  }
+}
