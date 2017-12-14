@@ -16,7 +16,10 @@
   "bugs": {
     "url": "https://github.com/McOmghall/random-generators/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "standard": "latest"
+  },
   "standard": {
     "ignore": [
       "test/**",
