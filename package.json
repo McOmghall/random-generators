@@ -16,8 +16,7 @@
   "bugs": {
     "url": "https://github.com/McOmghall/random-generators/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "standard": {
     "ignore": [
       "test/**",
